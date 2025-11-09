@@ -5,22 +5,9 @@
   <title>{{ page.title }} | {{ site.title }}</title>
   <style>
     body { font-family: system-ui, sans-serif; margin: 2rem; max-width: 700px; }
-    header { border-bottom: 1px solid #ddd; margin-bottom: 2rem; padding-bottom: 0.5rem; }
-    nav { font-size: 1.1rem; margin-bottom: 1rem; }
-    nav a { text-decoration: none; color: #0366d6; }
-    nav a:hover { text-decoration: underline; }
   </style>
 </head>
 <body>
-  <header>
-    {% capture nav_markdown %}
-      {% include navbar.md %}
-    {% endcapture %}
-    <nav>
-      {{ nav_markdown | markdownify }}
-    </nav>
-  </header>
-
   <main>
     {{ content }}
   </main>

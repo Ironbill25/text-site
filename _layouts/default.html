@@ -13,7 +13,7 @@
 <body>
   <header>
     <nav>
-      {% include navbar.md %}
+      {{ site.data.navbar.content | markdownify }}
     </nav>
   </header>
 

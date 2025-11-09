@@ -1,0 +1,13 @@
+title: IronBill25's text site
+description: My text site
+baseurl: "/text-site"
+url: "https://ironbill25.github.io"
+
+markdown: kramdown
+exclude: ["README.md"]
+
+nav:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/

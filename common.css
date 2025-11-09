@@ -8,6 +8,11 @@ main {
     margin: 2rem;
 }
 
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+
 /* Typography Utilities */
 .text-left { text-align: left; }
 .text-center { text-align: center; }

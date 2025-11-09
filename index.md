@@ -2,8 +2,8 @@
 layout: default
 title: Home
 ---
-([Home](/))
-([About](/about))
+[Home](/) [About](/about)
+{: .nav}
 ---
 
 # Welcome!

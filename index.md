@@ -9,7 +9,7 @@ title: Home
 # Welcome!
 
 This is my small corner of the internet.
-And thankfully, I control it. Unlike a lot of other things...
+And thankfully, <span class="highlight-easter-egg">I control it</span>. Unlike a lot of other things...
 
 ---
 

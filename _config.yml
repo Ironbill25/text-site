@@ -4,6 +4,9 @@ baseurl: "/text-site"
 url: "https://ironbill25.github.io"
 
 markdown: kramdown
+kramdown:
+  input: GFM
+
 exclude: ["README.md"]
 
 nav:

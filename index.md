@@ -2,5 +2,22 @@
 layout: default
 title: Home
 ---
+([Home](/))
+([About](/about))
+---
 
-# IronBill25's Text Site
+# Welcome!
+
+This is my small corner of the internet.
+And thankfully, I control it. Unlike a lot of other things...
+
+---
+
+## Latest
+
+### New Project: Text Site
+*November 9, 2025*  
+Just launched this simple text-based website using Jekyll.
+
+---
+

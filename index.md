@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-[Home](/) [About](/about)
+[Home]({{ site.baseurl }}) [About]({{ site.baseurl }}/about)
 {: .nav}
 ---
 
